@@ -1,0 +1,9 @@
+[14-Sep-2020 14:16:05 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:19 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:20 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:23 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:27 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:30 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:32 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
+[14-Sep-2020 14:16:32 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/peter/public_html/www/hd/hd/system/plugins/menu/menu.css:1) in /home/peter/public_html/www/hd/hd/system/lib/main.php on line 94
+[14-Sep-2020 14:16:32 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hd'@'localhost' (using password: YES) in /home/peter/public_html/www/hd/hd/system/lib/mysql.php on line 28
